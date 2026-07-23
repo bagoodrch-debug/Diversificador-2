@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://distribuirico.com.br/sitemap.xml
